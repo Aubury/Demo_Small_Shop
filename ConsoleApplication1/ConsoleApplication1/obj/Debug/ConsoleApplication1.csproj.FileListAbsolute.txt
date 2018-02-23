@@ -1,0 +1,6 @@
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe.config
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.csprojResolveAssemblyReference.cache
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\bin\Debug\ConsoleApplication1.pdb
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.exe
+D:\ПРОГРОММИРОВАНИЕ\ПРОГРАММИРОВАНИЕ\3_семестр\ADO.NET\1_Урок\ConsoleApplication1\ConsoleApplication1\obj\Debug\ConsoleApplication1.pdb
